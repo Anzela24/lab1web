@@ -4,7 +4,7 @@
  
 ![image](https://user-images.githubusercontent.com/56473376/112730866-8e31da00-8f66-11eb-9a9e-ca316d1a932f.png)
 
-3.setelah kita klik akan muncul kode HTML 
+3.setelah kita klik akan muncul kode HTML b
 
 ![image](https://user-images.githubusercontent.com/56473376/112730897-b9b4c480-8f66-11eb-95ba-62396cb5f9ae.png)
 
@@ -48,13 +48,20 @@
  
 ![image](https://user-images.githubusercontent.com/56473376/112731437-c850ab00-8f69-11eb-886d-3610bba06745.png)
 
-menambahkan hyperlink 
 
-![image](https://user-images.githubusercontent.com/56473376/112732205-3053c100-8f6b-11eb-8ee2-efe4cc7fbca3.png)
 
-Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
+![image](https://user-images.githubusercontent.com/56473376/113361319-f2450b80-9375-11eb-952c-f9633aae5c68.png)
+ 
+ jawaban 
+ 1. html tidak pernah eror hanya saja website menjadi berantakan bila ada kesalahan pada format HTML nya.
+ 2. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka menggunakan tag paragraf baru tersebut dengan sepasang tag <p>  dan </p>.
+ 3. alt adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan sedangkan Title adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar.
+ 4. harus diisi keduanya untuk menentukan height dan weight pada website.
+ 5. target="_blank"Memuat dokumen baru ke dalam window baru yang kosong
+    target="_self"Memuat dokumen baru ke dalam window yang sama dengan anchor (default)
+    target="_parent"Memuat dokumen baru ke dalam parent frame (bila menggunakan frame)target="_top"Memuat dokumen baru ke dalam keseluruhan window browser
+    
 
-![image](https://user-images.githubusercontent.com/56473376/112732212-43669100-8f6b-11eb-9259-43000aa57413.png)
 
 
 
