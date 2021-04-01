@@ -54,7 +54,7 @@
  
  jawaban 
  1. html tidak pernah eror hanya saja website menjadi berantakan bila ada kesalahan pada format HTML nya.
- 2. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka menggunakan tag paragraf baru tersebut dengan sepasang tag <p>  dan </p>.
+ 2. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka menggunakan tag paragraf baru tersebut dengan sepasang tag.
  3. alt adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan sedangkan Title adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar.
  4. harus diisi keduanya untuk menentukan height dan weight pada website.
  5. target="_blank"Memuat dokumen baru ke dalam window baru yang kosong
