@@ -4,7 +4,7 @@
  
 ![image](https://user-images.githubusercontent.com/56473376/112730866-8e31da00-8f66-11eb-9a9e-ca316d1a932f.png)
 
-3.setelah kita klik akan muncul kode HTML b
+3.setelah kita klik akan muncul kode HTML 5
 
 ![image](https://user-images.githubusercontent.com/56473376/112730897-b9b4c480-8f66-11eb-95ba-62396cb5f9ae.png)
 
