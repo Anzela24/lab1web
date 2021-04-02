@@ -1,26 +1,48 @@
 # lab1web
 1.buat file baru dengan nama lab1_tag_dasar.html
+
 2.lalu ketik html.5 
+
 ![image](https://user-images.githubusercontent.com/56473376/113411351-bb0b4480-93df-11eb-9534-40df03ff812e.png)
+
 3. selanjutnya membuat paragraf sederhana 
+
 ![image](https://user-images.githubusercontent.com/56473376/113411636-8350cc80-93e0-11eb-8ae2-0a03ede6cd58.png)
+
 4. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
 ![image](https://user-images.githubusercontent.com/56473376/113411962-4f29db80-93e1-11eb-9ce8-96443c32807a.png)
+
 5. menambahkan judul 
+
  ![image](https://user-images.githubusercontent.com/56473376/113412118-aa5bce00-93e1-11eb-908e-626ce32b12eb.png)
+ 
  6. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+ 
  ![image](https://user-images.githubusercontent.com/56473376/113412185-cfe8d780-93e1-11eb-8275-653737178d4a.png)
+ 
 7. memformat teks 
+
  ![image](https://user-images.githubusercontent.com/56473376/113412308-1b02ea80-93e2-11eb-88e8-c0fef6a87e72.png)
+ 
 8. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
 ![image](https://user-images.githubusercontent.com/56473376/113412382-47b70200-93e2-11eb-973a-ff0c097565db.png)
+
 9. menyisipkan gambar 
+
 ![image](https://user-images.githubusercontent.com/56473376/113412431-71702900-93e2-11eb-8728-718db6b8a2c3.png)
+
 10. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+
 ![image](https://user-images.githubusercontent.com/56473376/113412488-9cf31380-93e2-11eb-8468-bc3e2c505089.png)
+
 11. menambahkan hyperlink 
+
 ![image](https://user-images.githubusercontent.com/56473376/113412561-c7dd6780-93e2-11eb-9609-1713c29cd16e.png)
+
 12. tampilan halaman 2 
+
 ![image](https://user-images.githubusercontent.com/56473376/113412605-e9d6ea00-93e2-11eb-89c1-c0187b3cbfac.png)
 
  jawaban 
