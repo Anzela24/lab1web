@@ -23,8 +23,6 @@
 12. tampilan halaman 2 
 ![image](https://user-images.githubusercontent.com/56473376/113412605-e9d6ea00-93e2-11eb-89c1-c0187b3cbfac.png)
 
-
- 
  jawaban 
  1. html tidak pernah eror hanya saja website menjadi berantakan bila ada kesalahan pada format HTML nya.
  2. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk.  Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag <br/> , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka menggunakan tag paragraf baru tersebut dengan sepasang tag.
