@@ -1,56 +1,29 @@
 # lab1web
-1. pertama kita  membuat folder html dan rename folder tersebut.
-2. lalu pada kolo pertama kita ketik html.5 seperti gambar tersebut.
- 
-![image](https://user-images.githubusercontent.com/56473376/112730866-8e31da00-8f66-11eb-9a9e-ca316d1a932f.png)
-
-3.setelah kita klik akan muncul kode HTML 5
-
-![image](https://user-images.githubusercontent.com/56473376/112730897-b9b4c480-8f66-11eb-95ba-62396cb5f9ae.png)
-
-4. lalu kita save dan membuka folder html melalui google chrome lalu akan muncul tampilan seperti ini 
-
-![image](https://user-images.githubusercontent.com/56473376/112730959-0f896c80-8f67-11eb-9bbf-5d57423c9f3d.png)
-
-5. lalu kita kembali software visual studio code dan rename dokumen menjadi "belajar html" pada baris ke 7 
-
-![image](https://user-images.githubusercontent.com/56473376/112731037-84f53d00-8f67-11eb-8c55-6b4dcd8ab819.png)
-
-6.  membuat paragraf dengan kode <p></p> 
- 
-![image](https://user-images.githubusercontent.com/56473376/112731152-27152500-8f68-11eb-92b1-581670c0d84c.png)
-
-7. Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
-
-![image](https://user-images.githubusercontent.com/56473376/112731173-4b710180-8f68-11eb-89b4-7249e287b390.png)
-
-8.  menambahkan judul <h></h> 
- 
-![image](https://user-images.githubusercontent.com/56473376/112731256-b1f61f80-8f68-11eb-9321-1c94caf9487e.png)
-
-9. Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
-
-![image](https://user-images.githubusercontent.com/56473376/112731264-c4705900-8f68-11eb-8875-138881115b7e.png)
-
-10.  membuat paragraf kedua dengan tanda <p></p>
-
-![image](https://user-images.githubusercontent.com/56473376/112731374-6001c980-8f69-11eb-98ff-cc8d3cf7bd17.png)
-
-11. Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
-
-![image](https://user-images.githubusercontent.com/56473376/112731393-8889c380-8f69-11eb-86ec-78d4fa2db419.png)
-
-12.  menambahkan gambar 
-
-![image](https://user-images.githubusercontent.com/56473376/112731418-abb47300-8f69-11eb-8c3e-2554b36d7d60.png)
-
-13.   Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
- 
-![image](https://user-images.githubusercontent.com/56473376/112731437-c850ab00-8f69-11eb-886d-3610bba06745.png)
+1.buat file baru dengan nama lab1_tag_dasar.html
+2.lalu ketik html.5 
+![image](https://user-images.githubusercontent.com/56473376/113411351-bb0b4480-93df-11eb-9534-40df03ff812e.png)
+3. selanjutnya membuat paragraf sederhana 
+![image](https://user-images.githubusercontent.com/56473376/113411636-8350cc80-93e0-11eb-8ae2-0a03ede6cd58.png)
+4. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+![image](https://user-images.githubusercontent.com/56473376/113411962-4f29db80-93e1-11eb-9ce8-96443c32807a.png)
+5. menambahkan judul 
+ ![image](https://user-images.githubusercontent.com/56473376/113412118-aa5bce00-93e1-11eb-908e-626ce32b12eb.png)
+ 6. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+ ![image](https://user-images.githubusercontent.com/56473376/113412185-cfe8d780-93e1-11eb-8275-653737178d4a.png)
+7. memformat teks 
+ ![image](https://user-images.githubusercontent.com/56473376/113412308-1b02ea80-93e2-11eb-88e8-c0fef6a87e72.png)
+8. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+![image](https://user-images.githubusercontent.com/56473376/113412382-47b70200-93e2-11eb-973a-ff0c097565db.png)
+9. menyisipkan gambar 
+![image](https://user-images.githubusercontent.com/56473376/113412431-71702900-93e2-11eb-8728-718db6b8a2c3.png)
+10. simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.
+![image](https://user-images.githubusercontent.com/56473376/113412488-9cf31380-93e2-11eb-8468-bc3e2c505089.png)
+11. menambahkan hyperlink 
+![image](https://user-images.githubusercontent.com/56473376/113412561-c7dd6780-93e2-11eb-9609-1713c29cd16e.png)
+12. tampilan halaman 2 
+![image](https://user-images.githubusercontent.com/56473376/113412605-e9d6ea00-93e2-11eb-89c1-c0187b3cbfac.png)
 
 
-
-![image](https://user-images.githubusercontent.com/56473376/113361319-f2450b80-9375-11eb-952c-f9633aae5c68.png)
  
  jawaban 
  1. html tidak pernah eror hanya saja website menjadi berantakan bila ada kesalahan pada format HTML nya.
